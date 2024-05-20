@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @xavi-danto
 - 👀 I’m interested in library science & archives.
-- 🌱 I’m currently learning about computer programming, cataloging, and art...
-- 💞️ I’m looking to collaborate on ..??!
-- 📫 How to reach me jdanto@pratt.edu
+- 🎵 Knowledge & Legacy at Lincoln Center
+- 🔗 Linked Open Data at Rhizome
+- 📫 Pratt Email: jdanto@pratt.edu
+- 📫 Personal Email: xavierjdanto@gmail.com
 
 <!---
 xavi-danto/xavi-danto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

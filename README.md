@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xavi-danto
 - 👀 I’m interested in library science & archives.
-- 🎵 Knowledge & Legacy at Lincoln Center
-- 🔗 Linked Open Data at Rhizome
+- 🔗 Open to freelance
 - 📫 Pratt Email: jdanto@pratt.edu
 - 📫 Personal Email: xavierjdanto@gmail.com
 
